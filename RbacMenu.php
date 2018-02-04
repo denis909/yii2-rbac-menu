@@ -1,6 +1,6 @@
 <?php
 /**
- * @link http://www.denis909.spb.ru/
+ * @link http://www.denis909.spb.ru
  * @copyright Copyright (c) 2018 denis909
  * @license LICENSE.md
  */
