@@ -1,0 +1,13 @@
+{
+    "name": "denis909/yii2-rbac-menu",
+    "keywords": ["yii2", "menu", "widget", "rbac"],
+    "license": "BSD-3-Clause",
+	"autoload": {
+		"classmap": [
+			"RbacMenu.php"
+		]
+	},
+    "require": {
+        "yiisoft/yii2": ">=2.0"
+    }
+}
