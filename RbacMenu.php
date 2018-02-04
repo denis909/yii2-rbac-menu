@@ -9,7 +9,7 @@ namespace denis909\yii;
 
 use Yii;
 
-class RbacMenu
+class RbacMenu extends \yii\widgets\Menu
 {
 	
 	public $defaultRoles = [];
