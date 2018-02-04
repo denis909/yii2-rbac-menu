@@ -1,6 +1,6 @@
 <?php
 /**
- * @link http://www.denis909.spb.ru
+ * @link http://www.denis909.spb.ru/
  * @copyright Copyright (c) 2018 denis909
  * @license LICENSE.md
  */
@@ -50,7 +50,7 @@ class RbacMenu extends \yii\widgets\Menu
 	
 	protected function normalizeItems($items, &$active)
     {
-		$return = parent::normailzeItems($items, $active);
+		$return = parent::normalizeItems($items, $active);
 		
 		foreach($return as $i => $item)
 		{
